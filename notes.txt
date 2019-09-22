@@ -1,1 +1,0 @@
-This is file was created by node js

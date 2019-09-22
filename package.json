@@ -1,0 +1,28 @@
+{
+  "name": "js-basics",
+  "version": "1.0.0",
+  "description": "javascript basics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmilcarz/js_basics.git"
+  },
+  "keywords": [
+    "js",
+    "basics"
+  ],
+  "author": "Kuba Mil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmilcarz/js_basics/issues"
+  },
+  "homepage": "https://github.com/jmilcarz/js_basics#readme",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "validator": "^11.1.0",
+    "yargs": "^14.0.0"
+  }
+}
